@@ -57,7 +57,7 @@ document.getElementById("demo").innerHTML = d;
 	}
 	
 	display_workers ();
-	
+	echo "lala";
 	echo $undefined_variable;
 	
 	?>
